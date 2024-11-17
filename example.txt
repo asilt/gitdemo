@@ -1,2 +1,2 @@
 this is an example.
-this is B's change
+this is A's and B's change
